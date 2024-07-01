@@ -1,4 +1,3 @@
-![WizardCoding](wizard.gif)
 Hi there, welcome!
 
 I'm a Computer Science student who also loves philosophy and literature.
