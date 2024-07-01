@@ -9,12 +9,12 @@ I'm a Computer Science student who also loves philosophy and literature.
 
 ### Programming Languages
 
-![Programming Languages](https://skillicons.dev/icons?i=c,py,js)
+![Programming Languages](https://skillicons.dev/icons?i=c,py,js&theme=dark)
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=linux,git,neovim)
+![Tools](https://skillicons.dev/icons?i=linux,git,neovim&theme=dark)
 
 ### Learning
 
-![Currently Learning](https://skillicons.dev/icons?i=ruby,rails,heroku,next,react,myql)
+![Currently Learning](https://skillicons.dev/icons?i=ruby,rails,heroku,next,react,myql&theme=dark)
