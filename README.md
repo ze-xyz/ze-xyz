@@ -1,5 +1,5 @@
 Hi there, welcome!
-
+[chen.gif]
 I'm a Computer Science student who also loves philosophy and literature.
 
 ### Languages
