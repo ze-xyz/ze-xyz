@@ -19,4 +19,4 @@ I'm a Computer Science student who also loves philosophy and literature.
 
 ### Learning
 
-![Currently Learning](https://skillicons.dev/icons?i=ruby,rails,heroku,next,react,myql&theme=dark)
+![Currently Learning](https://skillicons.dev/icons?i=ruby,rails,heroku,mysql,next,react,myql&theme=dark)
