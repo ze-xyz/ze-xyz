@@ -1,6 +1,4 @@
 ## Hi there, welcome!
-![Ok_new](Ok_new.gif)
-
 I'm a Computer Science student who also loves philosophy and literature.
 
 ### Languages
