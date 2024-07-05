@@ -1,6 +1,5 @@
-Hi there, welcome!
-
-![chen](chen.gif)
+## Hi there, welcome!
+![Ok_new](https://github.com/ze-xyz/ze-xyz/assets/173194779/fa6f6b44-596f-4b05-94de-5dce3ee42cb2)
 
 I'm a Computer Science student who also loves philosophy and literature.
 
