@@ -12,7 +12,7 @@ I'm a Computer Science student who also loves philosophy and literature.
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=linux,git,neovim&theme=dark)
+![Tools](https://skillicons.dev/icons?i=linux,git,neovim,bash&theme=dark)
 
 ### Learning
 
