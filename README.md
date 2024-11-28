@@ -1,5 +1,5 @@
 ## Hi there, welcome!
-![Ok](Ok.gif)
+![Ok](ok.gif)
 
 I'm a Software Engineer student who also loves philosophy and literature.
 
