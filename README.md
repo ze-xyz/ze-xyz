@@ -1,7 +1,7 @@
 ## Hi there, welcome!
 ![Ok](ok.gif)
 
-I'm a Software Engineer student who also loves philosophy and literature.
+I'm a Software Engineering student with a deep curiosity for philosophy and literature, constantly seeking to expand my understanding of the world and grow through diverse perspectives
 
 
 ### Languages
