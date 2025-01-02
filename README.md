@@ -15,4 +15,4 @@ I'm a Software Engineer student who also loves philosophy and literature.
 ![Tools](https://skillicons.dev/icons?i=linux,git,neovim,bash,aws&theme=dark)
 
 ### Learning
-![Currently Learning](https://skillicons.dev/icons?i=cpp,myql&theme=dark)
+![Currently Learning](https://skillicons.dev/icons?i=cpp,myql,java,spring&theme=dark)
