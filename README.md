@@ -12,7 +12,7 @@ I'm a Backend Developer student with a deep curiosity for philosophy and literat
 ![Programming Languages](https://skillicons.dev/icons?i=c,py,js&theme=dark)
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=linux,git,neovim,bash,aws&theme=dark)
+![Tools](https://skillicons.dev/icons?i=linux,arch,git,neovim,bash,aws&theme=dark)
 
 ### Learning
 ![Currently Learning](https://skillicons.dev/icons?i=cpp,mysql,java,spring,ruby,rails&theme=dark)
