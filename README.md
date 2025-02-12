@@ -15,4 +15,4 @@ I'm a Backend Developer student with a deep curiosity for philosophy and literat
 ![Tools](https://skillicons.dev/icons?i=linux,arch,git,neovim,bash,aws&theme=dark)
 
 ### Learning
-![Currently Learning](https://skillicons.dev/icons?i=cpp,mysql,java,springboot,ruby,rails&theme=dark)
+![Currently Learning](https://skillicons.dev/icons?i=cpp,mysql,java,spring,ruby,rails&theme=dark)
